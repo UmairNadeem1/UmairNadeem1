@@ -24,7 +24,7 @@
 - 📝 I regularly write articles on  [The Cryds Daily ](www.thecrydsdaily.com) &  [We Talk Startups  ](www.wetalkstartups.com)  
   
 
-- 📄 Know about my experiences [umairnadeem.me](umairnadeem.me)  
+- 📄 Know about my experiences [umairnadeem.me](www.umairnadeem.me)  
   
 
 - ⚡ Fun fact   A machine that turns coffee into code  
