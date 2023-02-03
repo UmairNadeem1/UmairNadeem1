@@ -165,7 +165,7 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmairNadeem1&hide_border=true&layout=compact" align="left" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=UmairNadeem1&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=UmairNadeem1&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
 <br/>  
   
@@ -183,7 +183,7 @@
 
 <br/>  
 
-<div align="right">
+<div align="center">
             <a href="https://www.buymeacoffee.com/umairdev" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
